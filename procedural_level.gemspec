@@ -23,7 +23,6 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec"
   spec.add_development_dependency "pry"
   spec.add_dependency 'gosu'
-  spec.add_dependency 'fidgit'
   spec.add_dependency 'texplay'
   spec.add_dependency 'perlin'
 end
